@@ -1,0 +1,18 @@
+/*
+ * example.cpp
+ *
+ *  Created on: Sep 23, 2013
+ *      Author: haochenwang
+ */
+
+#include "example.h"
+
+example::example() {
+	// TODO Auto-generated constructor stub
+
+}
+
+example::~example() {
+	// TODO Auto-generated destructor stub
+}
+
